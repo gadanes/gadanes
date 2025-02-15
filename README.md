@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I am Arga 👋
+a Data Engineering Consultant specializing in the finance industry.
 
-<!--
-**gadanes/gadanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+🏦 My expertise is focused on finance and banking industry data solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 I specialize in ETL, big data, and workflow automation.
+
+💡 Passionate about building efficient, scalable, and robust data pipelines.
+
+🛠️ Technologies I Work With
+
+ETL Tools: Informatica PowerCenter
+
+Big Data Processing: Apache Spark
+
+Workflow Orchestration: Apache Airflow
+
+Programming Languages: Python, Java
