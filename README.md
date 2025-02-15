@@ -1,20 +1,12 @@
-## Hi there, I am Arga 👋
-a Data Engineering Consultant specializing in the finance industry.
+## Hi there 👋, I am Arga!
 
-🚀 About Me
+🚀 **Data Engineering Consultant** | 💰 Specializing in **Finance Industry**
 
-🏦 My expertise is focused on finance and banking industry data solutions.
+### 💡 About Me
+I am a **Data Engineering Consultant** with extensive experience in building scalable and efficient data solutions, primarily in the **finance industry**. I specialize in designing robust ETL pipelines, data modeling, and optimizing data workflows to drive business intelligence and analytics.
 
-🔧 I specialize in ETL, big data, and workflow automation.
-
-💡 Passionate about building efficient, scalable, and robust data pipelines.
-
-🛠️ Technologies I Work With
-
-ETL Tools: Informatica PowerCenter
-
-Big Data Processing: Apache Spark
-
-Workflow Orchestration: Apache Airflow
-
-Programming Languages: Python, Java
+### 🔧 Technologies I Work With
+- **ETL & Data Integration**: Informatica Power Center, Apache Airflow
+- **Big Data & Processing**: Apache Spark
+- **Programming Languages**: Python, Java
+- **Cloud & Databases**: OracleSQL, PostgreSQL, AWS, Azure
